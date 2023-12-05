@@ -22,5 +22,5 @@ This project is a simple calculator application built using Python. It asks the 
 ## Demo
 
 Here is the link of the demo video:
-[LinkedIn Post](www.google.com)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7137809585003757568/)
 
